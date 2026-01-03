@@ -1,0 +1,801 @@
+membership_id,customer_id,membership_type,price_per_month,start_date,end_date,status
+1,1,Punch Card,120,2021-08-09,2022-02-05,Expired
+2,2,Punch Card,120,2021-01-11,2021-07-10,Expired
+3,3,Annual,780,2021-03-24,,Active
+4,4,Annual,780,2022-02-16,,Active
+5,5,Monthly,75,2023-06-18,,Active
+6,6,Monthly,75,2021-01-08,,Active
+7,7,Monthly,75,2022-05-16,,Active
+8,8,Annual,780,2021-12-27,,Active
+9,9,Monthly,75,2021-02-27,,Active
+10,10,Annual,780,2022-05-09,,Active
+11,11,Annual,780,2021-10-06,,Active
+12,12,Annual,780,2022-01-21,,Active
+13,13,Annual,780,2023-02-12,,Active
+14,14,Annual,780,2022-07-26,,Active
+15,15,Monthly,75,2021-05-17,,Active
+16,16,Punch Card,120,2023-11-19,2024-05-17,Expired
+17,17,Annual,780,2022-11-28,,Active
+18,18,Punch Card,120,2023-04-19,2023-10-16,Expired
+19,19,Punch Card,120,2021-03-28,2021-09-24,Expired
+20,20,Monthly,75,2021-02-21,,Active
+21,21,Punch Card,120,2021-01-22,2021-07-21,Expired
+22,22,Monthly,75,2021-07-26,,Active
+23,23,Annual,780,2022-03-30,,Active
+24,24,Monthly,75,2023-10-22,,Active
+25,25,Monthly,75,2022-05-16,,Active
+26,26,Monthly,75,2021-11-14,,Active
+27,27,Monthly,75,2022-09-08,,Active
+28,28,Monthly,75,2021-05-03,,Active
+29,29,Monthly,75,2022-10-30,,Active
+30,30,Punch Card,120,2022-09-15,2023-03-14,Expired
+31,31,Punch Card,120,2023-05-18,2023-11-14,Expired
+32,32,Punch Card,120,2023-12-17,2024-06-14,Expired
+33,33,Monthly,75,2021-10-02,,Active
+34,34,Annual,780,2022-07-13,,Active
+35,35,Monthly,75,2023-09-23,,Active
+36,36,Punch Card,120,2023-05-10,2023-11-06,Expired
+37,37,Monthly,75,2022-06-18,,Active
+38,38,Monthly,75,2023-11-02,,Active
+39,39,Annual,780,2021-03-04,,Active
+40,40,Annual,780,2023-10-17,,Active
+41,41,Punch Card,120,2021-02-25,2021-08-24,Expired
+42,42,Monthly,75,2022-08-23,,Active
+43,43,Annual,780,2023-09-03,,Active
+44,44,Annual,780,2021-10-15,,Active
+45,45,Punch Card,120,2022-06-02,2022-11-29,Expired
+46,46,Punch Card,120,2021-12-22,2022-06-20,Expired
+47,47,Annual,780,2023-11-09,,Active
+48,48,Punch Card,120,2023-06-21,2023-12-18,Expired
+49,49,Annual,780,2023-02-16,,Active
+50,50,Punch Card,120,2022-10-06,2023-04-04,Expired
+51,51,Annual,780,2023-06-18,,Active
+52,52,Punch Card,120,2022-03-06,2022-09-02,Expired
+53,53,Punch Card,120,2022-05-06,2022-11-02,Expired
+54,54,Monthly,75,2023-03-11,,Active
+55,55,Monthly,75,2022-01-27,,Active
+56,56,Annual,780,2021-03-11,,Active
+57,57,Monthly,75,2021-03-23,,Active
+58,58,Punch Card,120,2021-05-07,2021-11-03,Expired
+59,59,Monthly,75,2023-08-11,,Active
+60,60,Annual,780,2022-06-02,,Active
+61,61,Monthly,75,2023-02-20,,Active
+62,62,Annual,780,2022-03-07,,Active
+63,63,Monthly,75,2021-10-11,,Active
+64,64,Monthly,75,2022-01-16,,Active
+65,65,Annual,780,2023-05-20,,Active
+66,66,Annual,780,2022-11-16,,Active
+67,67,Monthly,75,2023-10-24,,Active
+68,68,Annual,780,2023-01-15,,Active
+69,69,Punch Card,120,2022-09-17,2023-03-16,Expired
+70,70,Punch Card,120,2022-10-31,2023-04-29,Expired
+71,71,Monthly,75,2023-10-29,,Active
+72,72,Annual,780,2023-05-14,,Active
+73,73,Monthly,75,2021-01-27,,Active
+74,74,Monthly,75,2022-08-08,,Active
+75,75,Annual,780,2023-01-24,,Active
+76,76,Punch Card,120,2023-03-31,2023-09-27,Expired
+77,77,Punch Card,120,2021-08-22,2022-02-18,Expired
+78,78,Monthly,75,2023-08-08,,Active
+79,79,Monthly,75,2023-11-13,,Active
+80,80,Annual,780,2021-09-17,,Active
+81,81,Annual,780,2023-08-25,,Active
+82,82,Annual,780,2021-04-17,,Active
+83,83,Monthly,75,2021-03-02,,Active
+84,84,Monthly,75,2021-05-22,,Active
+85,85,Monthly,75,2021-03-05,,Active
+86,86,Punch Card,120,2023-07-15,2024-01-11,Expired
+87,87,Annual,780,2021-03-06,,Active
+88,88,Punch Card,120,2021-10-25,2022-04-23,Expired
+89,89,Annual,780,2021-04-24,,Active
+90,90,Monthly,75,2021-11-20,,Active
+91,91,Punch Card,120,2021-04-10,2021-10-07,Expired
+92,92,Monthly,75,2023-01-02,,Active
+93,93,Annual,780,2021-05-26,,Active
+94,94,Annual,780,2023-07-22,,Active
+95,95,Punch Card,120,2023-06-14,2023-12-11,Expired
+96,96,Punch Card,120,2021-01-15,2021-07-14,Expired
+97,97,Monthly,75,2023-09-08,,Active
+98,98,Punch Card,120,2021-02-01,2021-07-31,Expired
+99,99,Annual,780,2021-09-20,,Active
+100,100,Punch Card,120,2021-02-05,2021-08-04,Expired
+101,101,Punch Card,120,2022-01-03,2022-07-02,Expired
+102,102,Punch Card,120,2022-07-17,2023-01-13,Expired
+103,103,Monthly,75,2023-05-23,,Active
+104,104,Punch Card,120,2022-01-06,2022-07-05,Expired
+105,105,Monthly,75,2023-02-12,,Active
+106,106,Annual,780,2021-07-25,,Active
+107,107,Annual,780,2023-04-02,,Active
+108,108,Monthly,75,2021-09-16,,Active
+109,109,Annual,780,2021-06-07,,Active
+110,110,Monthly,75,2021-07-23,,Active
+111,111,Annual,780,2021-07-19,,Active
+112,112,Monthly,75,2022-07-16,,Active
+113,113,Annual,780,2023-07-15,,Active
+114,114,Monthly,75,2021-03-29,,Active
+115,115,Punch Card,120,2023-02-14,2023-08-13,Expired
+116,116,Punch Card,120,2022-12-18,2023-06-16,Expired
+117,117,Punch Card,120,2023-08-14,2024-02-10,Expired
+118,118,Monthly,75,2021-09-25,,Active
+119,119,Annual,780,2022-05-08,,Active
+120,120,Punch Card,120,2023-10-11,2024-04-08,Expired
+121,121,Punch Card,120,2022-12-24,2023-06-22,Expired
+122,122,Monthly,75,2022-03-02,,Active
+123,123,Monthly,75,2021-05-24,,Active
+124,124,Punch Card,120,2021-10-15,2022-04-13,Expired
+125,125,Punch Card,120,2022-09-29,2023-03-28,Expired
+126,126,Punch Card,120,2023-02-26,2023-08-25,Expired
+127,127,Monthly,75,2021-05-17,,Active
+128,128,Monthly,75,2022-10-19,,Active
+129,129,Punch Card,120,2022-08-26,2023-02-22,Expired
+130,130,Punch Card,120,2022-07-17,2023-01-13,Expired
+131,131,Punch Card,120,2023-01-26,2023-07-25,Expired
+132,132,Punch Card,120,2023-07-07,2024-01-03,Expired
+133,133,Monthly,75,2021-12-20,,Active
+134,134,Punch Card,120,2023-09-01,2024-02-28,Expired
+135,135,Annual,780,2021-06-25,,Active
+136,136,Monthly,75,2021-07-09,,Active
+137,137,Annual,780,2021-10-20,,Active
+138,138,Monthly,75,2021-05-11,,Active
+139,139,Monthly,75,2021-09-10,,Active
+140,140,Monthly,75,2021-04-27,,Active
+141,141,Punch Card,120,2023-06-19,2023-12-16,Expired
+142,142,Annual,780,2021-06-02,,Active
+143,143,Monthly,75,2023-03-30,,Active
+144,144,Punch Card,120,2021-02-22,2021-08-21,Expired
+145,145,Punch Card,120,2023-11-05,2024-05-03,Expired
+146,146,Monthly,75,2023-02-18,,Active
+147,147,Annual,780,2021-01-08,,Active
+148,148,Annual,780,2023-04-17,,Active
+149,149,Monthly,75,2022-07-17,,Active
+150,150,Annual,780,2023-05-04,,Active
+151,151,Monthly,75,2022-07-27,,Active
+152,152,Annual,780,2022-12-03,,Active
+153,153,Monthly,75,2023-05-12,,Active
+154,154,Punch Card,120,2022-03-20,2022-09-16,Expired
+155,155,Monthly,75,2021-01-03,,Active
+156,156,Punch Card,120,2023-07-20,2024-01-16,Expired
+157,157,Annual,780,2022-02-22,,Active
+158,158,Annual,780,2022-06-28,,Active
+159,159,Punch Card,120,2021-01-09,2021-07-08,Expired
+160,160,Monthly,75,2022-06-23,,Active
+161,161,Punch Card,120,2023-12-17,2024-06-14,Expired
+162,162,Annual,780,2021-11-01,,Active
+163,163,Annual,780,2022-03-09,,Active
+164,164,Monthly,75,2023-01-23,,Active
+165,165,Monthly,75,2023-06-12,,Active
+166,166,Monthly,75,2022-04-03,,Active
+167,167,Monthly,75,2021-12-06,,Active
+168,168,Punch Card,120,2023-10-24,2024-04-21,Expired
+169,169,Annual,780,2023-01-12,,Active
+170,170,Annual,780,2021-05-11,,Active
+171,171,Punch Card,120,2021-03-17,2021-09-13,Expired
+172,172,Punch Card,120,2022-06-14,2022-12-11,Expired
+173,173,Monthly,75,2021-08-29,,Active
+174,174,Monthly,75,2021-10-06,,Active
+175,175,Annual,780,2023-08-20,,Active
+176,176,Punch Card,120,2021-04-09,2021-10-06,Expired
+177,177,Punch Card,120,2023-02-23,2023-08-22,Expired
+178,178,Monthly,75,2021-10-24,,Active
+179,179,Monthly,75,2023-04-13,,Active
+180,180,Annual,780,2023-03-03,,Active
+181,181,Monthly,75,2021-01-09,,Active
+182,182,Annual,780,2022-07-12,,Active
+183,183,Punch Card,120,2021-06-02,2021-11-29,Expired
+184,184,Annual,780,2023-08-07,,Active
+185,185,Annual,780,2023-08-13,,Active
+186,186,Monthly,75,2022-04-04,,Active
+187,187,Annual,780,2022-05-02,,Active
+188,188,Punch Card,120,2021-11-29,2022-05-28,Expired
+189,189,Annual,780,2023-02-24,,Active
+190,190,Annual,780,2022-01-28,,Active
+191,191,Punch Card,120,2021-10-21,2022-04-19,Expired
+192,192,Annual,780,2022-04-19,,Active
+193,193,Monthly,75,2021-04-11,,Active
+194,194,Monthly,75,2023-03-29,,Active
+195,195,Punch Card,120,2021-01-14,2021-07-13,Expired
+196,196,Punch Card,120,2022-12-07,2023-06-05,Expired
+197,197,Punch Card,120,2021-07-20,2022-01-16,Expired
+198,198,Annual,780,2021-09-12,,Active
+199,199,Punch Card,120,2022-11-28,2023-05-27,Expired
+200,200,Punch Card,120,2023-12-24,2024-06-21,Expired
+201,201,Annual,780,2023-05-02,,Active
+202,202,Punch Card,120,2021-09-05,2022-03-04,Expired
+203,203,Monthly,75,2021-07-12,,Active
+204,204,Punch Card,120,2023-08-07,2024-02-03,Expired
+205,205,Punch Card,120,2022-05-02,2022-10-29,Expired
+206,206,Punch Card,120,2021-05-31,2021-11-27,Expired
+207,207,Punch Card,120,2023-08-03,2024-01-30,Expired
+208,208,Annual,780,2023-06-13,,Active
+209,209,Monthly,75,2023-12-14,,Active
+210,210,Monthly,75,2023-09-24,,Active
+211,211,Punch Card,120,2023-07-22,2024-01-18,Expired
+212,212,Monthly,75,2021-02-27,,Active
+213,213,Punch Card,120,2021-04-25,2021-10-22,Expired
+214,214,Punch Card,120,2022-09-16,2023-03-15,Expired
+215,215,Annual,780,2022-08-05,,Active
+216,216,Monthly,75,2022-05-17,,Active
+217,217,Monthly,75,2022-03-11,,Active
+218,218,Monthly,75,2022-04-18,,Active
+219,219,Annual,780,2022-09-16,,Active
+220,220,Annual,780,2021-01-03,,Active
+221,221,Annual,780,2021-10-13,,Active
+222,222,Punch Card,120,2022-07-22,2023-01-18,Expired
+223,223,Punch Card,120,2023-03-02,2023-08-29,Expired
+224,224,Annual,780,2021-07-10,,Active
+225,225,Annual,780,2022-08-22,,Active
+226,226,Annual,780,2023-02-22,,Active
+227,227,Annual,780,2022-05-02,,Active
+228,228,Punch Card,120,2021-01-30,2021-07-29,Expired
+229,229,Annual,780,2022-05-07,,Active
+230,230,Monthly,75,2021-11-21,,Active
+231,231,Annual,780,2023-10-15,,Active
+232,232,Punch Card,120,2021-05-17,2021-11-13,Expired
+233,233,Punch Card,120,2022-12-16,2023-06-14,Expired
+234,234,Annual,780,2021-02-27,,Active
+235,235,Punch Card,120,2022-05-04,2022-10-31,Expired
+236,236,Punch Card,120,2022-08-30,2023-02-26,Expired
+237,237,Punch Card,120,2021-11-23,2022-05-22,Expired
+238,238,Punch Card,120,2022-05-14,2022-11-10,Expired
+239,239,Annual,780,2021-06-29,,Active
+240,240,Punch Card,120,2021-11-30,2022-05-29,Expired
+241,241,Annual,780,2022-11-12,,Active
+242,242,Annual,780,2021-11-27,,Active
+243,243,Punch Card,120,2023-09-13,2024-03-11,Expired
+244,244,Monthly,75,2022-11-20,,Active
+245,245,Punch Card,120,2022-04-26,2022-10-23,Expired
+246,246,Punch Card,120,2021-02-12,2021-08-11,Expired
+247,247,Monthly,75,2022-07-02,,Active
+248,248,Punch Card,120,2023-04-18,2023-10-15,Expired
+249,249,Punch Card,120,2021-10-18,2022-04-16,Expired
+250,250,Punch Card,120,2023-06-03,2023-11-30,Expired
+251,251,Monthly,75,2021-10-03,,Active
+252,252,Annual,780,2023-06-22,,Active
+253,253,Punch Card,120,2021-04-04,2021-10-01,Expired
+254,254,Annual,780,2023-08-07,,Active
+255,255,Annual,780,2022-07-01,,Active
+256,256,Annual,780,2021-11-21,,Active
+257,257,Punch Card,120,2021-10-18,2022-04-16,Expired
+258,258,Annual,780,2022-04-19,,Active
+259,259,Punch Card,120,2023-12-30,2024-06-27,Expired
+260,260,Monthly,75,2021-08-30,,Active
+261,261,Annual,780,2021-04-24,,Active
+262,262,Monthly,75,2022-10-03,,Active
+263,263,Annual,780,2022-06-19,,Active
+264,264,Annual,780,2022-07-28,,Active
+265,265,Annual,780,2023-01-01,,Active
+266,266,Annual,780,2021-10-20,,Active
+267,267,Annual,780,2023-09-25,,Active
+268,268,Annual,780,2022-04-23,,Active
+269,269,Annual,780,2021-05-22,,Active
+270,270,Punch Card,120,2023-03-24,2023-09-20,Expired
+271,271,Annual,780,2022-12-06,,Active
+272,272,Monthly,75,2021-12-12,,Active
+273,273,Punch Card,120,2022-11-12,2023-05-11,Expired
+274,274,Annual,780,2021-08-29,,Active
+275,275,Monthly,75,2022-05-03,,Active
+276,276,Annual,780,2023-09-12,,Active
+277,277,Punch Card,120,2021-05-27,2021-11-23,Expired
+278,278,Punch Card,120,2022-02-28,2022-08-27,Expired
+279,279,Monthly,75,2023-06-19,,Active
+280,280,Annual,780,2023-11-28,,Active
+281,281,Monthly,75,2022-05-13,,Active
+282,282,Punch Card,120,2022-07-10,2023-01-06,Expired
+283,283,Monthly,75,2022-09-19,,Active
+284,284,Monthly,75,2023-10-18,,Active
+285,285,Monthly,75,2023-07-29,,Active
+286,286,Annual,780,2021-07-06,,Active
+287,287,Annual,780,2022-04-24,,Active
+288,288,Monthly,75,2022-05-24,,Active
+289,289,Punch Card,120,2023-05-15,2023-11-11,Expired
+290,290,Punch Card,120,2022-10-23,2023-04-21,Expired
+291,291,Punch Card,120,2022-12-18,2023-06-16,Expired
+292,292,Annual,780,2023-12-30,,Active
+293,293,Monthly,75,2021-03-24,,Active
+294,294,Monthly,75,2021-09-02,,Active
+295,295,Punch Card,120,2022-03-23,2022-09-19,Expired
+296,296,Punch Card,120,2022-01-16,2022-07-15,Expired
+297,297,Monthly,75,2021-01-24,,Active
+298,298,Punch Card,120,2021-04-11,2021-10-08,Expired
+299,299,Annual,780,2023-01-16,,Active
+300,300,Annual,780,2023-08-21,,Active
+301,301,Monthly,75,2022-07-18,,Active
+302,302,Monthly,75,2022-08-14,,Active
+303,303,Punch Card,120,2021-10-07,2022-04-05,Expired
+304,304,Monthly,75,2023-04-21,,Active
+305,305,Annual,780,2023-04-04,,Active
+306,306,Monthly,75,2022-10-07,,Active
+307,307,Monthly,75,2021-08-21,,Active
+308,308,Annual,780,2021-04-17,,Active
+309,309,Punch Card,120,2021-03-12,2021-09-08,Expired
+310,310,Annual,780,2022-10-12,,Active
+311,311,Punch Card,120,2023-06-23,2023-12-20,Expired
+312,312,Monthly,75,2023-07-29,,Active
+313,313,Monthly,75,2022-05-23,,Active
+314,314,Monthly,75,2023-05-09,,Active
+315,315,Monthly,75,2023-11-03,,Active
+316,316,Punch Card,120,2021-10-29,2022-04-27,Expired
+317,317,Annual,780,2022-03-12,,Active
+318,318,Punch Card,120,2023-10-17,2024-04-14,Expired
+319,319,Punch Card,120,2022-01-06,2022-07-05,Expired
+320,320,Monthly,75,2023-09-28,,Active
+321,321,Annual,780,2023-12-11,,Active
+322,322,Monthly,75,2022-12-26,,Active
+323,323,Annual,780,2023-06-14,,Active
+324,324,Punch Card,120,2023-04-01,2023-09-28,Expired
+325,325,Punch Card,120,2023-02-05,2023-08-04,Expired
+326,326,Annual,780,2021-12-03,,Active
+327,327,Annual,780,2021-03-04,,Active
+328,328,Punch Card,120,2022-01-11,2022-07-10,Expired
+329,329,Punch Card,120,2023-01-01,2023-06-30,Expired
+330,330,Annual,780,2021-04-23,,Active
+331,331,Punch Card,120,2021-01-14,2021-07-13,Expired
+332,332,Punch Card,120,2021-06-02,2021-11-29,Expired
+333,333,Annual,780,2023-02-23,,Active
+334,334,Punch Card,120,2023-12-02,2024-05-30,Expired
+335,335,Annual,780,2023-12-13,,Active
+336,336,Monthly,75,2022-06-25,,Active
+337,337,Monthly,75,2023-08-10,,Active
+338,338,Punch Card,120,2023-03-18,2023-09-14,Expired
+339,339,Monthly,75,2022-07-03,,Active
+340,340,Monthly,75,2022-09-20,,Active
+341,341,Annual,780,2021-05-31,,Active
+342,342,Monthly,75,2023-10-24,,Active
+343,343,Punch Card,120,2022-01-21,2022-07-20,Expired
+344,344,Punch Card,120,2022-05-04,2022-10-31,Expired
+345,345,Punch Card,120,2023-01-06,2023-07-05,Expired
+346,346,Punch Card,120,2022-01-01,2022-06-30,Expired
+347,347,Annual,780,2021-10-06,,Active
+348,348,Monthly,75,2022-11-22,,Active
+349,349,Annual,780,2021-01-28,,Active
+350,350,Annual,780,2023-03-01,,Active
+351,351,Punch Card,120,2022-07-17,2023-01-13,Expired
+352,352,Monthly,75,2022-10-26,,Active
+353,353,Punch Card,120,2022-11-23,2023-05-22,Expired
+354,354,Punch Card,120,2022-08-01,2023-01-28,Expired
+355,355,Monthly,75,2022-09-30,,Active
+356,356,Punch Card,120,2023-01-19,2023-07-18,Expired
+357,357,Monthly,75,2023-04-05,,Active
+358,358,Monthly,75,2023-03-08,,Active
+359,359,Punch Card,120,2023-08-11,2024-02-07,Expired
+360,360,Annual,780,2021-07-27,,Active
+361,361,Punch Card,120,2022-03-16,2022-09-12,Expired
+362,362,Punch Card,120,2023-11-04,2024-05-02,Expired
+363,363,Punch Card,120,2022-03-11,2022-09-07,Expired
+364,364,Punch Card,120,2021-05-17,2021-11-13,Expired
+365,365,Annual,780,2022-07-30,,Active
+366,366,Annual,780,2021-04-30,,Active
+367,367,Monthly,75,2021-08-11,,Active
+368,368,Monthly,75,2023-12-30,,Active
+369,369,Monthly,75,2022-08-16,,Active
+370,370,Annual,780,2021-11-08,,Active
+371,371,Monthly,75,2023-12-26,,Active
+372,372,Annual,780,2023-11-25,,Active
+373,373,Monthly,75,2022-04-28,,Active
+374,374,Annual,780,2021-10-13,,Active
+375,375,Monthly,75,2023-07-08,,Active
+376,376,Monthly,75,2023-02-23,,Active
+377,377,Monthly,75,2023-01-23,,Active
+378,378,Monthly,75,2023-09-05,,Active
+379,379,Monthly,75,2023-01-25,,Active
+380,380,Monthly,75,2021-11-07,,Active
+381,381,Monthly,75,2023-01-30,,Active
+382,382,Monthly,75,2021-12-01,,Active
+383,383,Punch Card,120,2023-04-12,2023-10-09,Expired
+384,384,Annual,780,2022-11-10,,Active
+385,385,Annual,780,2021-03-26,,Active
+386,386,Monthly,75,2022-07-16,,Active
+387,387,Monthly,75,2022-01-11,,Active
+388,388,Monthly,75,2021-12-26,,Active
+389,389,Annual,780,2022-10-22,,Active
+390,390,Punch Card,120,2021-12-19,2022-06-17,Expired
+391,391,Annual,780,2023-05-01,,Active
+392,392,Monthly,75,2021-03-19,,Active
+393,393,Punch Card,120,2022-12-25,2023-06-23,Expired
+394,394,Annual,780,2023-06-06,,Active
+395,395,Annual,780,2023-01-07,,Active
+396,396,Annual,780,2022-06-29,,Active
+397,397,Monthly,75,2023-11-07,,Active
+398,398,Monthly,75,2021-11-25,,Active
+399,399,Annual,780,2021-01-21,,Active
+400,400,Punch Card,120,2022-04-19,2022-10-16,Expired
+401,401,Annual,780,2021-02-06,,Active
+402,402,Annual,780,2023-11-11,,Active
+403,403,Punch Card,120,2021-08-18,2022-02-14,Expired
+404,404,Punch Card,120,2023-05-14,2023-11-10,Expired
+405,405,Monthly,75,2023-04-29,,Active
+406,406,Punch Card,120,2021-08-27,2022-02-23,Expired
+407,407,Monthly,75,2022-11-12,,Active
+408,408,Annual,780,2021-02-22,,Active
+409,409,Punch Card,120,2022-06-14,2022-12-11,Expired
+410,410,Monthly,75,2021-01-17,,Active
+411,411,Monthly,75,2023-10-06,,Active
+412,412,Punch Card,120,2023-12-05,2024-06-02,Expired
+413,413,Punch Card,120,2021-09-01,2022-02-28,Expired
+414,414,Annual,780,2021-08-16,,Active
+415,415,Monthly,75,2023-04-06,,Active
+416,416,Monthly,75,2021-10-05,,Active
+417,417,Monthly,75,2023-09-08,,Active
+418,418,Punch Card,120,2022-09-21,2023-03-20,Expired
+419,419,Annual,780,2022-01-20,,Active
+420,420,Annual,780,2023-07-01,,Active
+421,421,Annual,780,2022-06-25,,Active
+422,422,Monthly,75,2023-09-26,,Active
+423,423,Annual,780,2023-10-14,,Active
+424,424,Annual,780,2021-07-01,,Active
+425,425,Monthly,75,2021-01-03,,Active
+426,426,Annual,780,2023-12-14,,Active
+427,427,Punch Card,120,2023-09-20,2024-03-18,Expired
+428,428,Punch Card,120,2021-03-02,2021-08-29,Expired
+429,429,Punch Card,120,2023-07-02,2023-12-29,Expired
+430,430,Monthly,75,2022-05-17,,Active
+431,431,Punch Card,120,2021-10-11,2022-04-09,Expired
+432,432,Punch Card,120,2023-08-21,2024-02-17,Expired
+433,433,Monthly,75,2021-08-04,,Active
+434,434,Annual,780,2023-11-04,,Active
+435,435,Annual,780,2021-08-14,,Active
+436,436,Punch Card,120,2022-11-03,2023-05-02,Expired
+437,437,Annual,780,2021-09-02,,Active
+438,438,Monthly,75,2022-08-21,,Active
+439,439,Annual,780,2023-01-19,,Active
+440,440,Punch Card,120,2021-07-28,2022-01-24,Expired
+441,441,Annual,780,2022-07-25,,Active
+442,442,Monthly,75,2022-05-29,,Active
+443,443,Punch Card,120,2021-03-19,2021-09-15,Expired
+444,444,Punch Card,120,2023-06-16,2023-12-13,Expired
+445,445,Punch Card,120,2022-01-03,2022-07-02,Expired
+446,446,Punch Card,120,2022-09-22,2023-03-21,Expired
+447,447,Annual,780,2022-07-18,,Active
+448,448,Annual,780,2022-07-17,,Active
+449,449,Monthly,75,2021-04-28,,Active
+450,450,Monthly,75,2022-04-09,,Active
+451,451,Annual,780,2022-05-11,,Active
+452,452,Punch Card,120,2023-03-15,2023-09-11,Expired
+453,453,Annual,780,2023-07-09,,Active
+454,454,Annual,780,2022-08-20,,Active
+455,455,Annual,780,2021-04-06,,Active
+456,456,Monthly,75,2021-09-17,,Active
+457,457,Monthly,75,2021-06-30,,Active
+458,458,Punch Card,120,2021-05-17,2021-11-13,Expired
+459,459,Monthly,75,2022-02-05,,Active
+460,460,Monthly,75,2021-09-09,,Active
+461,461,Punch Card,120,2021-08-28,2022-02-24,Expired
+462,462,Annual,780,2021-03-01,,Active
+463,463,Monthly,75,2021-01-20,,Active
+464,464,Punch Card,120,2021-04-23,2021-10-20,Expired
+465,465,Annual,780,2021-07-08,,Active
+466,466,Annual,780,2022-04-17,,Active
+467,467,Punch Card,120,2022-07-14,2023-01-10,Expired
+468,468,Punch Card,120,2021-06-03,2021-11-30,Expired
+469,469,Annual,780,2022-04-11,,Active
+470,470,Punch Card,120,2022-01-10,2022-07-09,Expired
+471,471,Monthly,75,2021-07-20,,Active
+472,472,Annual,780,2021-01-08,,Active
+473,473,Punch Card,120,2022-05-27,2022-11-23,Expired
+474,474,Monthly,75,2023-01-21,,Active
+475,475,Punch Card,120,2021-09-05,2022-03-04,Expired
+476,476,Annual,780,2021-05-25,,Active
+477,477,Punch Card,120,2023-08-30,2024-02-26,Expired
+478,478,Punch Card,120,2021-10-29,2022-04-27,Expired
+479,479,Annual,780,2021-09-02,,Active
+480,480,Monthly,75,2023-07-28,,Active
+481,481,Annual,780,2023-06-14,,Active
+482,482,Annual,780,2022-05-06,,Active
+483,483,Annual,780,2022-06-20,,Active
+484,484,Monthly,75,2021-08-27,,Active
+485,485,Monthly,75,2021-03-27,,Active
+486,486,Punch Card,120,2022-09-20,2023-03-19,Expired
+487,487,Annual,780,2021-04-18,,Active
+488,488,Annual,780,2022-05-07,,Active
+489,489,Annual,780,2023-10-27,,Active
+490,490,Punch Card,120,2023-11-10,2024-05-08,Expired
+491,491,Punch Card,120,2021-09-20,2022-03-19,Expired
+492,492,Annual,780,2022-11-15,,Active
+493,493,Monthly,75,2022-06-04,,Active
+494,494,Annual,780,2023-08-17,,Active
+495,495,Annual,780,2021-10-25,,Active
+496,496,Monthly,75,2021-01-05,,Active
+497,497,Annual,780,2021-06-28,,Active
+498,498,Punch Card,120,2022-01-18,2022-07-17,Expired
+499,499,Punch Card,120,2021-12-12,2022-06-10,Expired
+500,500,Annual,780,2023-05-17,,Active
+501,501,Annual,780,2023-01-16,,Active
+502,502,Annual,780,2021-11-25,,Active
+503,503,Punch Card,120,2022-05-17,2022-11-13,Expired
+504,504,Punch Card,120,2021-04-15,2021-10-12,Expired
+505,505,Punch Card,120,2023-09-11,2024-03-09,Expired
+506,506,Annual,780,2023-10-22,,Active
+507,507,Punch Card,120,2023-12-09,2024-06-06,Expired
+508,508,Punch Card,120,2023-08-10,2024-02-06,Expired
+509,509,Monthly,75,2021-07-10,,Active
+510,510,Monthly,75,2021-02-20,,Active
+511,511,Annual,780,2022-09-27,,Active
+512,512,Annual,780,2023-09-27,,Active
+513,513,Annual,780,2021-07-14,,Active
+514,514,Punch Card,120,2021-01-08,2021-07-07,Expired
+515,515,Monthly,75,2023-06-02,,Active
+516,516,Monthly,75,2021-03-26,,Active
+517,517,Monthly,75,2022-03-30,,Active
+518,518,Punch Card,120,2023-01-14,2023-07-13,Expired
+519,519,Punch Card,120,2021-09-17,2022-03-16,Expired
+520,520,Monthly,75,2021-04-02,,Active
+521,521,Monthly,75,2023-04-24,,Active
+522,522,Annual,780,2022-11-22,,Active
+523,523,Annual,780,2023-12-19,,Active
+524,524,Annual,780,2022-01-13,,Active
+525,525,Monthly,75,2021-03-09,,Active
+526,526,Annual,780,2023-03-16,,Active
+527,527,Annual,780,2022-07-26,,Active
+528,528,Annual,780,2021-08-22,,Active
+529,529,Punch Card,120,2023-05-06,2023-11-02,Expired
+530,530,Annual,780,2021-08-12,,Active
+531,531,Annual,780,2021-10-13,,Active
+532,532,Punch Card,120,2021-04-12,2021-10-09,Expired
+533,533,Monthly,75,2022-03-14,,Active
+534,534,Annual,780,2022-04-04,,Active
+535,535,Monthly,75,2022-07-18,,Active
+536,536,Punch Card,120,2023-02-16,2023-08-15,Expired
+537,537,Monthly,75,2023-09-20,,Active
+538,538,Monthly,75,2021-05-31,,Active
+539,539,Monthly,75,2021-03-01,,Active
+540,540,Punch Card,120,2021-01-21,2021-07-20,Expired
+541,541,Annual,780,2021-06-07,,Active
+542,542,Annual,780,2022-12-22,,Active
+543,543,Monthly,75,2023-03-08,,Active
+544,544,Monthly,75,2023-05-12,,Active
+545,545,Monthly,75,2021-09-24,,Active
+546,546,Annual,780,2021-12-01,,Active
+547,547,Annual,780,2022-06-14,,Active
+548,548,Punch Card,120,2021-03-11,2021-09-07,Expired
+549,549,Monthly,75,2022-11-01,,Active
+550,550,Annual,780,2023-12-14,,Active
+551,551,Monthly,75,2022-01-31,,Active
+552,552,Annual,780,2023-04-05,,Active
+553,553,Annual,780,2022-07-02,,Active
+554,554,Annual,780,2021-05-20,,Active
+555,555,Annual,780,2022-09-30,,Active
+556,556,Annual,780,2021-11-25,,Active
+557,557,Monthly,75,2021-02-07,,Active
+558,558,Punch Card,120,2022-11-27,2023-05-26,Expired
+559,559,Punch Card,120,2023-07-30,2024-01-26,Expired
+560,560,Punch Card,120,2022-01-13,2022-07-12,Expired
+561,561,Punch Card,120,2022-03-04,2022-08-31,Expired
+562,562,Punch Card,120,2023-09-03,2024-03-01,Expired
+563,563,Monthly,75,2023-06-10,,Active
+564,564,Monthly,75,2023-02-22,,Active
+565,565,Punch Card,120,2021-09-30,2022-03-29,Expired
+566,566,Punch Card,120,2023-09-24,2024-03-22,Expired
+567,567,Monthly,75,2021-06-19,,Active
+568,568,Punch Card,120,2022-11-18,2023-05-17,Expired
+569,569,Punch Card,120,2021-02-01,2021-07-31,Expired
+570,570,Monthly,75,2022-12-06,,Active
+571,571,Monthly,75,2021-10-31,,Active
+572,572,Annual,780,2022-05-08,,Active
+573,573,Annual,780,2022-01-14,,Active
+574,574,Annual,780,2021-07-09,,Active
+575,575,Punch Card,120,2022-11-13,2023-05-12,Expired
+576,576,Annual,780,2023-08-24,,Active
+577,577,Annual,780,2023-11-17,,Active
+578,578,Punch Card,120,2021-07-30,2022-01-26,Expired
+579,579,Annual,780,2023-02-25,,Active
+580,580,Annual,780,2022-12-29,,Active
+581,581,Punch Card,120,2022-01-11,2022-07-10,Expired
+582,582,Punch Card,120,2021-01-21,2021-07-20,Expired
+583,583,Monthly,75,2023-01-26,,Active
+584,584,Monthly,75,2023-11-02,,Active
+585,585,Annual,780,2022-11-24,,Active
+586,586,Punch Card,120,2022-04-22,2022-10-19,Expired
+587,587,Annual,780,2022-07-30,,Active
+588,588,Monthly,75,2021-08-07,,Active
+589,589,Annual,780,2023-04-02,,Active
+590,590,Annual,780,2023-03-29,,Active
+591,591,Punch Card,120,2021-06-09,2021-12-06,Expired
+592,592,Monthly,75,2023-08-20,,Active
+593,593,Annual,780,2021-10-22,,Active
+594,594,Punch Card,120,2023-12-12,2024-06-09,Expired
+595,595,Punch Card,120,2022-02-24,2022-08-23,Expired
+596,596,Annual,780,2021-07-14,,Active
+597,597,Monthly,75,2022-01-21,,Active
+598,598,Punch Card,120,2022-04-27,2022-10-24,Expired
+599,599,Annual,780,2021-03-17,,Active
+600,600,Monthly,75,2022-09-26,,Active
+601,601,Punch Card,120,2022-10-17,2023-04-15,Expired
+602,602,Monthly,75,2023-03-21,,Active
+603,603,Punch Card,120,2021-02-01,2021-07-31,Expired
+604,604,Annual,780,2022-08-16,,Active
+605,605,Annual,780,2021-02-27,,Active
+606,606,Monthly,75,2023-02-07,,Active
+607,607,Punch Card,120,2021-03-03,2021-08-30,Expired
+608,608,Punch Card,120,2023-09-26,2024-03-24,Expired
+609,609,Monthly,75,2023-02-08,,Active
+610,610,Punch Card,120,2022-07-10,2023-01-06,Expired
+611,611,Punch Card,120,2022-04-29,2022-10-26,Expired
+612,612,Punch Card,120,2021-05-24,2021-11-20,Expired
+613,613,Punch Card,120,2021-11-15,2022-05-14,Expired
+614,614,Punch Card,120,2023-08-10,2024-02-06,Expired
+615,615,Punch Card,120,2023-09-18,2024-03-16,Expired
+616,616,Punch Card,120,2021-01-01,2021-06-30,Expired
+617,617,Annual,780,2022-10-13,,Active
+618,618,Monthly,75,2023-02-27,,Active
+619,619,Annual,780,2022-11-09,,Active
+620,620,Annual,780,2021-03-31,,Active
+621,621,Punch Card,120,2021-08-27,2022-02-23,Expired
+622,622,Punch Card,120,2021-10-02,2022-03-31,Expired
+623,623,Annual,780,2023-06-30,,Active
+624,624,Annual,780,2022-05-23,,Active
+625,625,Annual,780,2022-06-18,,Active
+626,626,Monthly,75,2023-10-21,,Active
+627,627,Punch Card,120,2022-11-29,2023-05-28,Expired
+628,628,Monthly,75,2023-09-12,,Active
+629,629,Annual,780,2022-05-15,,Active
+630,630,Monthly,75,2021-06-13,,Active
+631,631,Punch Card,120,2023-10-16,2024-04-13,Expired
+632,632,Punch Card,120,2022-05-18,2022-11-14,Expired
+633,633,Monthly,75,2021-07-18,,Active
+634,634,Monthly,75,2021-11-28,,Active
+635,635,Annual,780,2021-02-25,,Active
+636,636,Annual,780,2022-05-28,,Active
+637,637,Annual,780,2023-07-24,,Active
+638,638,Monthly,75,2023-10-20,,Active
+639,639,Annual,780,2023-10-19,,Active
+640,640,Punch Card,120,2021-05-18,2021-11-14,Expired
+641,641,Annual,780,2022-02-23,,Active
+642,642,Monthly,75,2021-01-31,,Active
+643,643,Punch Card,120,2023-07-26,2024-01-22,Expired
+644,644,Punch Card,120,2022-01-28,2022-07-27,Expired
+645,645,Monthly,75,2022-11-23,,Active
+646,646,Punch Card,120,2023-02-22,2023-08-21,Expired
+647,647,Monthly,75,2022-04-16,,Active
+648,648,Annual,780,2021-12-02,,Active
+649,649,Monthly,75,2023-11-20,,Active
+650,650,Annual,780,2023-11-23,,Active
+651,651,Punch Card,120,2021-11-13,2022-05-12,Expired
+652,652,Monthly,75,2022-06-10,,Active
+653,653,Punch Card,120,2023-12-02,2024-05-30,Expired
+654,654,Annual,780,2021-01-06,,Active
+655,655,Annual,780,2022-03-28,,Active
+656,656,Punch Card,120,2021-04-21,2021-10-18,Expired
+657,657,Punch Card,120,2022-07-12,2023-01-08,Expired
+658,658,Monthly,75,2021-01-28,,Active
+659,659,Monthly,75,2022-03-22,,Active
+660,660,Monthly,75,2021-08-30,,Active
+661,661,Punch Card,120,2022-08-07,2023-02-03,Expired
+662,662,Annual,780,2023-12-27,,Active
+663,663,Annual,780,2023-05-27,,Active
+664,664,Monthly,75,2023-07-15,,Active
+665,665,Annual,780,2022-11-27,,Active
+666,666,Punch Card,120,2021-02-15,2021-08-14,Expired
+667,667,Annual,780,2021-08-15,,Active
+668,668,Annual,780,2023-10-10,,Active
+669,669,Punch Card,120,2022-02-05,2022-08-04,Expired
+670,670,Monthly,75,2021-04-24,,Active
+671,671,Annual,780,2023-02-09,,Active
+672,672,Annual,780,2021-11-24,,Active
+673,673,Monthly,75,2021-10-22,,Active
+674,674,Annual,780,2023-12-29,,Active
+675,675,Monthly,75,2023-07-29,,Active
+676,676,Punch Card,120,2022-03-23,2022-09-19,Expired
+677,677,Annual,780,2023-12-10,,Active
+678,678,Punch Card,120,2022-12-13,2023-06-11,Expired
+679,679,Annual,780,2023-03-24,,Active
+680,680,Punch Card,120,2021-02-04,2021-08-03,Expired
+681,681,Punch Card,120,2021-05-14,2021-11-10,Expired
+682,682,Monthly,75,2022-11-25,,Active
+683,683,Punch Card,120,2023-09-12,2024-03-10,Expired
+684,684,Monthly,75,2022-11-14,,Active
+685,685,Annual,780,2021-05-27,,Active
+686,686,Punch Card,120,2021-05-07,2021-11-03,Expired
+687,687,Monthly,75,2023-07-14,,Active
+688,688,Punch Card,120,2021-06-02,2021-11-29,Expired
+689,689,Annual,780,2022-07-24,,Active
+690,690,Punch Card,120,2021-02-10,2021-08-09,Expired
+691,691,Annual,780,2021-03-30,,Active
+692,692,Monthly,75,2023-01-07,,Active
+693,693,Annual,780,2023-01-25,,Active
+694,694,Annual,780,2022-01-09,,Active
+695,695,Annual,780,2021-08-25,,Active
+696,696,Annual,780,2023-06-11,,Active
+697,697,Annual,780,2021-08-26,,Active
+698,698,Punch Card,120,2022-08-17,2023-02-13,Expired
+699,699,Monthly,75,2023-11-27,,Active
+700,700,Punch Card,120,2021-06-11,2021-12-08,Expired
+701,701,Punch Card,120,2023-10-28,2024-04-25,Expired
+702,702,Monthly,75,2021-07-20,,Active
+703,703,Monthly,75,2022-09-14,,Active
+704,704,Punch Card,120,2022-02-17,2022-08-16,Expired
+705,705,Monthly,75,2023-11-23,,Active
+706,706,Punch Card,120,2021-10-27,2022-04-25,Expired
+707,707,Monthly,75,2022-03-14,,Active
+708,708,Annual,780,2023-12-13,,Active
+709,709,Punch Card,120,2022-08-11,2023-02-07,Expired
+710,710,Monthly,75,2022-07-05,,Active
+711,711,Punch Card,120,2021-10-10,2022-04-08,Expired
+712,712,Annual,780,2023-02-07,,Active
+713,713,Annual,780,2021-01-16,,Active
+714,714,Punch Card,120,2021-02-24,2021-08-23,Expired
+715,715,Annual,780,2022-10-19,,Active
+716,716,Monthly,75,2022-01-10,,Active
+717,717,Punch Card,120,2023-11-10,2024-05-08,Expired
+718,718,Punch Card,120,2023-09-16,2024-03-14,Expired
+719,719,Monthly,75,2023-02-21,,Active
+720,720,Monthly,75,2023-06-15,,Active
+721,721,Punch Card,120,2023-01-01,2023-06-30,Expired
+722,722,Punch Card,120,2021-05-18,2021-11-14,Expired
+723,723,Punch Card,120,2023-04-19,2023-10-16,Expired
+724,724,Monthly,75,2021-08-19,,Active
+725,725,Annual,780,2021-12-21,,Active
+726,726,Monthly,75,2023-06-17,,Active
+727,727,Annual,780,2022-08-11,,Active
+728,728,Monthly,75,2023-07-31,,Active
+729,729,Annual,780,2021-08-22,,Active
+730,730,Annual,780,2022-10-28,,Active
+731,731,Annual,780,2021-04-02,,Active
+732,732,Monthly,75,2022-12-06,,Active
+733,733,Punch Card,120,2023-04-15,2023-10-12,Expired
+734,734,Annual,780,2022-10-03,,Active
+735,735,Annual,780,2021-10-19,,Active
+736,736,Punch Card,120,2021-02-04,2021-08-03,Expired
+737,737,Punch Card,120,2021-05-11,2021-11-07,Expired
+738,738,Monthly,75,2022-11-13,,Active
+739,739,Monthly,75,2023-10-21,,Active
+740,740,Monthly,75,2021-08-15,,Active
+741,741,Monthly,75,2023-03-16,,Active
+742,742,Punch Card,120,2023-08-07,2024-02-03,Expired
+743,743,Monthly,75,2022-07-25,,Active
+744,744,Monthly,75,2023-01-03,,Active
+745,745,Annual,780,2023-06-12,,Active
+746,746,Punch Card,120,2021-10-13,2022-04-11,Expired
+747,747,Annual,780,2021-11-22,,Active
+748,748,Punch Card,120,2021-01-01,2021-06-30,Expired
+749,749,Annual,780,2023-11-21,,Active
+750,750,Annual,780,2023-10-02,,Active
+751,751,Annual,780,2023-04-18,,Active
+752,752,Annual,780,2021-03-28,,Active
+753,753,Monthly,75,2022-05-06,,Active
+754,754,Monthly,75,2021-04-22,,Active
+755,755,Monthly,75,2021-01-18,,Active
+756,756,Annual,780,2022-11-06,,Active
+757,757,Annual,780,2023-11-19,,Active
+758,758,Monthly,75,2023-09-16,,Active
+759,759,Annual,780,2023-02-02,,Active
+760,760,Monthly,75,2021-04-16,,Active
+761,761,Punch Card,120,2021-10-28,2022-04-26,Expired
+762,762,Annual,780,2021-12-17,,Active
+763,763,Punch Card,120,2023-04-16,2023-10-13,Expired
+764,764,Monthly,75,2023-05-29,,Active
+765,765,Annual,780,2022-02-26,,Active
+766,766,Monthly,75,2022-04-03,,Active
+767,767,Punch Card,120,2021-02-18,2021-08-17,Expired
+768,768,Annual,780,2021-11-13,,Active
+769,769,Monthly,75,2022-05-10,,Active
+770,770,Monthly,75,2021-05-09,,Active
+771,771,Punch Card,120,2022-05-12,2022-11-08,Expired
+772,772,Punch Card,120,2023-07-24,2024-01-20,Expired
+773,773,Punch Card,120,2022-09-29,2023-03-28,Expired
+774,774,Annual,780,2021-03-28,,Active
+775,775,Punch Card,120,2021-07-29,2022-01-25,Expired
+776,776,Monthly,75,2022-06-04,,Active
+777,777,Monthly,75,2022-01-31,,Active
+778,778,Punch Card,120,2022-01-28,2022-07-27,Expired
+779,779,Monthly,75,2022-08-03,,Active
+780,780,Annual,780,2022-10-02,,Active
+781,781,Annual,780,2023-05-23,,Active
+782,782,Monthly,75,2022-01-09,,Active
+783,783,Punch Card,120,2023-06-01,2023-11-28,Expired
+784,784,Punch Card,120,2022-01-06,2022-07-05,Expired
+785,785,Punch Card,120,2021-03-02,2021-08-29,Expired
+786,786,Monthly,75,2022-08-30,,Active
+787,787,Monthly,75,2022-10-06,,Active
+788,788,Annual,780,2023-10-21,,Active
+789,789,Annual,780,2023-03-07,,Active
+790,790,Monthly,75,2023-10-02,,Active
+791,791,Monthly,75,2023-09-22,,Active
+792,792,Punch Card,120,2022-10-25,2023-04-23,Expired
+793,793,Punch Card,120,2022-08-01,2023-01-28,Expired
+794,794,Monthly,75,2022-09-03,,Active
+795,795,Punch Card,120,2023-12-08,2024-06-05,Expired
+796,796,Monthly,75,2023-04-27,,Active
+797,797,Annual,780,2021-04-27,,Active
+798,798,Punch Card,120,2023-05-03,2023-10-30,Expired
+799,799,Monthly,75,2021-07-06,,Active
+800,800,Punch Card,120,2022-05-05,2022-11-01,Expired
