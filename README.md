@@ -60,5 +60,5 @@ Finally, Power BI was used to visualize key business metrics, including revenue 
 
 ### Tech Stack Summary
 - BigQuery (SQL): data cleaning & analytical views
-- Python: churn prediction modeling
 - Power BI: KPI dashboards
+- Python: churn prediction modeling (in process)
