@@ -54,11 +54,11 @@ The dataset of this project contains 3 files in CSV format. </br>
 ## :computer: Project Workflow
 I separated raw data, cleaned views, and analytical views to ensure dashboard's KPIs were based on validated data while preserving the original tables.
 First of all, cleaning views were created so that data: had no duplicates, had no mispelled values, was correctly formatted, contained range of values in quantitative columns that made sense. 
-Secondly, **SQL views** were created in **BigQuery** to prepare analytical datasets for dashboarding.
-Finally, **Power BI** was used to visualize key business metrics, including revenue trends, attendance behavior, and route popularity. Dashboard screenshots are included in the repository.
+Secondly, SQL views were created in BigQuery to prepare analytical datasets for dashboarding.
+Finally, Power BI was used to visualize key business metrics, including revenue trends, attendance behavior, and route popularity. Dashboard screenshots are included in the repository.
 
 
-### Tech Stack Symmary
+### Tech Stack Summary
 - BigQuery (SQL): data cleaning & analytical views
 - Python: churn prediction modeling
 - Power BI: KPI dashboards
