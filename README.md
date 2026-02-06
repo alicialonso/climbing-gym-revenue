@@ -58,8 +58,6 @@ Secondly, **SQL views** were created in **BigQuery** to prepare analytical datas
 Finally, **Power BI** was used to visualize key business metrics, including revenue trends, attendance behavior, and route popularity. Dashboard screenshots are included in the repository.
 
 
-
-### Tech Stack Symmary
+### Tech Stack Summary
 - BigQuery (SQL): data cleaning & analytical views
 - Power BI: KPI dashboards
-- Python: churn prediction modeling (in process)
