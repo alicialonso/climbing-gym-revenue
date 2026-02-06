@@ -18,7 +18,7 @@ To understand how membership types, attendance behavior, and facility usage impa
 - Is there a seasonal pattern of attendance through the year?
 - Which membership types generate the most revenue?
 - When is the gym most crowded? By which type of members?
-- What signals indicate customer churn?
+
 
 ## :file_folder: The Dataset 
 The dataset of this project contains 3 files in CSV format. </br>
